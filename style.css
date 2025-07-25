@@ -1,0 +1,87 @@
+
+body{
+	background-color: #8a39c2;
+	color: white;
+	padding: 2rem;
+	text-align: center;
+	border: solid 5px; 
+}
+h1{
+	 margin: 0;
+	 font-family: 'Segoe UI', sans-serif;
+	 background-color: #ead41a;
+	 color: #8a39c2;
+	 font-size: 80px;
+}
+h2{
+	color: #ead41a;
+	font-family: cursive;
+	font-size: 40px;
+}
+p{
+	line-height: 4rem;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.stats-grid{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.stat{
+	background-color: #ead41a;
+	border: 2px solid #8a39c2;
+	border-radius: 10px;
+	padding: 20px;
+	width: 250px;
+	flex-shrink: 0;
+}
+
+.percent{
+	font-size: 3rem;
+	font-weight: bold;
+	color: #8a39c2;
+	margin-bottom: 10px;
+}
+
+.stat p{
+	font-size: 1rem;
+	margin: 0;
+
+
+}
+
+img{
+	height: 350px;
+	width: 350px;
+	display: block;
+	margin: auto;
+	border: 2px solid black;
+}
+
+.block-images {
+	display: flex;
+}
+
+img2{
+	
+}
+a{
+	font-size: 35px;
+	color: white;
+	display: block;
+	text-align: center;
+
+}
+
+.pas-de-bordure{
+	border: none;
+}
+
+h3{
+	color: white;
+	line-height: 8rem;
+	font-size: 40px;
+}
