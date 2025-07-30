@@ -85,3 +85,11 @@ h3{
 	line-height: 8rem;
 	font-size: 40px;
 }
+
+#hide {
+	color: #8a39c2;
+}
+
+.discovered {
+	color: white !important;
+}
